@@ -26,6 +26,9 @@
     "name": "John Bothe",
     "email": "jbothe@gmail.com"
   },
+  "bugs": {
+    "url": "https://github.com/jbothe/com.heatnglo.rc300/issues"
+  },
   "capabilities": {
     "my_fan_speed": {
       "type": "number",
